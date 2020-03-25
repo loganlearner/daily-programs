@@ -1,3 +1,5 @@
+#Daily Programmer #1 [Easy]
+
 array = [10,15,3,7]
 
 def sumOfParts(array, target):
